@@ -4,8 +4,6 @@
 
 Oii! Sou a Sâmara e foi no bootcamp da Generation Brasil que encontrei minha porta de entrada para o mundo da tecnologia. Desde então, me apaixonei pela área e por tudo que envolve resolver problemas com criatividade e lógica. Gosto de aprender, colocar a mão na massa e transformar desafios em soluções reais.
 
-<br/>
-
    ---
 
    ### 🤖 Linguagens e Tecnologias
