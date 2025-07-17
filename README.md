@@ -6,23 +6,6 @@ Oii! Sou a Sâmara e foi no bootcamp da Generation Brasil que encontrei minha po
 
 <br/>
 
-   <p align="left">
-      <a href="https://github.com/SamsJd?tab=followers">
-         <img 
-         alt="Seguidores" 
-         title="Me siga no Github" 
-         src="https://custom-icon-badges.demolab.com/github/followers/SamsJd?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=seguidores&logoColor=white"
-         />
-    </a>
-      <a href="https://github.com/SamsJd?tab=repositories&sort=stargazers">
-         <img 
-         alt="Total de estrelas" 
-         title="Total de estrelas no GitHub" 
-         src="https://custom-icon-badges.demolab.com/github/stars/SamsJd?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-         />
-    </a>
-   </p>
-
    ---
 
    ### 🤖 Linguagens e Tecnologias
